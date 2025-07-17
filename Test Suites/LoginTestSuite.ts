@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>LoginTestSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>0e0ab041-684b-469a-951b-28205630b12c</testSuiteGuid>
+   <testCaseLink>
+      <guid>cf2d5592-f404-4206-8a26-9c596baf439f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginFunction/Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0b2f9b96-088f-4bfd-91eb-2bc349605b1b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LoginDataTest</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>0b2f9b96-088f-4bfd-91eb-2bc349605b1b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>18acaab9-dadf-4228-8852-363604858d5d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0b2f9b96-088f-4bfd-91eb-2bc349605b1b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>e3abcc9b-6062-49c0-9a58-e5d97828e14c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0b2f9b96-088f-4bfd-91eb-2bc349605b1b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expected_msg</value>
+         <variableId>d3dd894f-a5f5-418b-b333-481891ab0dcb</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a79f6256-1fa0-4de8-9825-00d1823464d7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginFunction/EmptyAllLogin</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

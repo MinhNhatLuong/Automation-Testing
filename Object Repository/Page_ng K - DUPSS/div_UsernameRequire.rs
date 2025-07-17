@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_UsernameRequire</name>
+   <tag></tag>
+   <elementGuidId>db29bc85-99ce-41cf-99a0-4e3f2bec2356</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/div/form/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiFormControl-root.MuiFormControl-fullWidth.MuiTextField-root.css-1cc2lie-MuiFormControl-root-MuiTextField-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#root div >> internal:has-text=&quot;Username là bắt buộc&quot;i >> nth=4</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3f4c6f04-df71-43ae-a48e-90b3d3c22b7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1cc2lie-MuiFormControl-root-MuiTextField-root</value>
+      <webElementGuid>c3467715-af01-45f0-aafd-c9a52db91772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>​​Username là bắt buộc</value>
+      <webElementGuid>a6552519-02e7-40cd-b327-f2b919402df8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;MuiBox-root css-m0pgy8&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1sotj5k-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-17867ir&quot;]/form[@class=&quot;MuiBox-root css-1ouw2vm&quot;]/div[@class=&quot;MuiBox-root css-uewl2b&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1cc2lie-MuiFormControl-root-MuiTextField-root&quot;]</value>
+      <webElementGuid>e75ba504-43ec-48da-85e7-3a637bff728e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/div/form/div/div</value>
+      <webElementGuid>9c51228d-c28f-4576-aef0-d3e8c36b61be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[1]</value>
+      <webElementGuid>1e7952a9-38f8-469a-b5eb-734b576aa8f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::div[3]</value>
+      <webElementGuid>388a87e1-ac85-4e21-8118-5ddfe64588d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div</value>
+      <webElementGuid>5745547c-9d03-4ee8-a87a-30c85615d4ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '​​Username là bắt buộc' or . = '​​Username là bắt buộc')]</value>
+      <webElementGuid>e0f099c3-5738-40d2-a4ed-8a866ddf4475</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>notiErrorRegistration</name>
+   <tag></tag>
+   <elementGuidId>fc471508-1a7d-42e6-a759-46500d4904a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiAlert-message.css-zioonp-MuiAlert-message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Tên đăng nhập phải từ 6 đến 50 ký tự, Username phải có ít nhất 1 chữ cái và 1 số&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c79ce382-2e47-4736-85bd-e808937b4317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiAlert-message css-zioonp-MuiAlert-message</value>
+      <webElementGuid>d19ab8c0-c75d-4de7-87a5-bb778a2e47bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tên đăng nhập phải từ 6 đến 50 ký tự, Username phải có ít nhất 1 chữ cái và 1 số, không chứa khoảng trắng hoặc ký tự đặc biệt</value>
+      <webElementGuid>f10b9c49-90d7-4caf-88f1-75eb08e9b422</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiSnackbar-root MuiSnackbar-anchorOriginTopRight css-17jnn8p-MuiSnackbar-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiAlert-root MuiAlert-colorError MuiAlert-filledError MuiAlert-filled css-17hd683-MuiPaper-root-MuiAlert-root&quot;]/div[@class=&quot;MuiAlert-message css-zioonp-MuiAlert-message&quot;]</value>
+      <webElementGuid>67600c6a-f591-4639-94bb-2f98ce5ee0ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]</value>
+      <webElementGuid>3fa86915-8c01-4d99-b33c-43787368a738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[1]/preceding::div[3]</value>
+      <webElementGuid>aa96bb8c-8e81-49ea-8594-fdaf48f07ec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[1]/preceding::div[3]</value>
+      <webElementGuid>a11dd863-d442-4fb2-b493-dc0d291e230e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tên đăng nhập phải từ 6 đến 50 ký tự, Username phải có ít nhất 1 chữ cái và 1 số, không chứa khoảng trắng hoặc ký tự đặc biệt']/parent::*</value>
+      <webElementGuid>0486e018-9e35-4a76-b6d8-9060c9dc1728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]</value>
+      <webElementGuid>5e1fd06f-1d26-4ed0-b3e4-6524cd970c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tên đăng nhập phải từ 6 đến 50 ký tự, Username phải có ít nhất 1 chữ cái và 1 số, không chứa khoảng trắng hoặc ký tự đặc biệt' or . = 'Tên đăng nhập phải từ 6 đến 50 ký tự, Username phải có ít nhất 1 chữ cái và 1 số, không chứa khoảng trắng hoặc ký tự đặc biệt')]</value>
+      <webElementGuid>97d25d76-6ee9-4f84-bf66-6f31cfdbc5e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

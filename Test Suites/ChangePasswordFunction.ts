@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>ChangePasswordFunction</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>6e4c6e2b-e401-499b-8263-ff55fe43d0be</testSuiteGuid>
+   <testCaseLink>
+      <guid>65752bf4-cf48-4341-9bef-f5cd449adf8b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ChangePasswordFunction/ChangePasswordEmpty2New-TC3</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>219badc8-0e71-4541-8587-cd18b20071fd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ChangePasswordFunction/ChangePasswordWrongPassword-TC4</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>df395e9c-1582-490d-9636-f55f53aa123f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ChangePasswordFunction/ChangePasswordLengthError-TC5</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0690e633-3524-43d0-83b4-e5d113b33bff</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ChangePasswordFunction/ChangePasswordEmptyAll-TC10</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>075c0810-ca1f-4a9a-b0fe-d6f24bf1909c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ChangePasswordFunction/ChangePassword</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3d6720ef-56bd-4633-bc53-96e24d409b55</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ChangePasswordDataTest</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>3d6720ef-56bd-4633-bc53-96e24d409b55</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>67c46a3d-6571-40c5-83f9-2487cbe3af01</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3d6720ef-56bd-4633-bc53-96e24d409b55</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>c32dc9e0-8753-47b8-a7ff-016454ed5885</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3d6720ef-56bd-4633-bc53-96e24d409b55</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>oldPassword</value>
+         <variableId>a38dc1ee-3405-4d9e-ac97-ad7c3527e5cb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3d6720ef-56bd-4633-bc53-96e24d409b55</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>newPassword</value>
+         <variableId>8101a612-9c6f-4f0f-887a-3aa0f4fa9eb7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3d6720ef-56bd-4633-bc53-96e24d409b55</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>confirmNewPassword</value>
+         <variableId>ed86f3ff-7ae6-4868-935f-9ab4a6ca83f6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3d6720ef-56bd-4633-bc53-96e24d409b55</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expected_msg</value>
+         <variableId>272315f8-62e5-44b3-b306-2a9c59c46146</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
